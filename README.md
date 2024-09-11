@@ -15,3 +15,7 @@ CREATE TABLE `antrikasir`  (
   `status` enum('0','1','2','3') CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL,
   `no_rawat` varchar(17) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL
 ) ENGINE = MyISAM CHARACTER SET = latin1 COLLATE = latin1_swedish_ci ROW_FORMAT = DYNAMIC;
+
+
+**NOTE**
+Folder video bikin sendiri (tidak admin upload karna ukurannya besar)
