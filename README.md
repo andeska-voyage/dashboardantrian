@@ -1,3 +1,6 @@
+![Screenshot 2024-09-11 103439](https://github.com/user-attachments/assets/83939d9d-3cc9-48e1-a69b-af44d8f72ba3)
+
+
 # Antrian:Poli-Farmasi-Kasir
 Antrian Poli Klinik, Farmasi, Dan Kasir (Khusus Kasir Pemanggilan Terpisah Menggunakan WEB)
 Sudah menggunakan text to speech menggunakan librari dari responsivevoice.js
